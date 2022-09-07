@@ -16,3 +16,7 @@ import datetime
 from viewstate import ViewState
 from tqdm import tqdm 
 ```
+
+## 執行時間
+1.37it/s 
+共 3354 個檔案，約 40.8 分鐘。
